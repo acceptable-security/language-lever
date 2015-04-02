@@ -1,0 +1,30 @@
+{
+  "name": "language-lever",
+  "version": "0.0.1",
+  "description": "LeverScript language support in Atom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/block8437/language-lever.git"
+  },
+  "bugs": {
+    "url": "https://github.com/block8437/language-lever/issues"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "README.md",
+  "readmeFilename": "",
+  "homepage": "https://github.com/block8437/language-lever",
+  "_id": "language-lever@0.2.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

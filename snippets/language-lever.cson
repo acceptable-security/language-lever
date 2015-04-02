@@ -1,0 +1,4 @@
+'.source.lever':
+  'Function definition':
+    'prefix': 'fn'
+    'body': 'fn ${1:name}(${2:args}) {\n\t$3\n}'

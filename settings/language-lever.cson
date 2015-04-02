@@ -1,0 +1,5 @@
+'.source.lever':
+  'editor':
+    'commentStart': '// '
+    'foldStartPattern': '\\{\\s*$'
+    'foldEndPattern': '^\\s*\\}'
