@@ -106,7 +106,7 @@
       '3':
         'name': 'entity.name.function.lever'
     'comment': 'Function'
-    'match': '(?:^\\s*)(fn)\\s+(?:([a-zA-Z0-9_]+)::)?([a-zA-Z0-9_]+)\\s*\\(?'
+    'match': '(?:^\\s*)(fn)\\s+(?:([a-zA-Z0-9_]+)::)?(/?[a-zA-Z0-9_]+)\\s*\\(?'
     'name': 'meta.function.lever'
   }
   {
