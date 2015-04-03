@@ -51,7 +51,7 @@
   }
   {
     'comment': 'Control Structure'
-    'match': '\\b(switch\\$)|\\b(break|case|continue|default|else|for|if|return|switch|while|loop|use)\\b'
+    'match': '\\b(match|break|case|continue|default|else|for|if|return|switch|while|loop|use)\\b'
     'name': 'keyword.control.lever'
   }
   {
